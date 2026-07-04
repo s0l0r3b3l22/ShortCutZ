@@ -1,0 +1,627 @@
+{
+  "code": "jv",
+  "name": "Basa Jawa",
+  "ui": {
+    "menu": "Menu",
+    "forums": "Forum",
+    "donate": "nyumbang",
+    "showWindow": "Show Window",
+    "hotKey": "Tombol Panas",
+    "both": "loro-lorone",
+    "bumper": "Bumper",
+    "clickToChange": "Klik kanggo Ngganti",
+    "sidebar": "Sidebar",
+    "autoHideSidebar": "Singidaken otomatis Sidebar",
+    "hideDelay": "Singidaken Tundha",
+    "window": "jendhela",
+    "autoHideWindow": "Jendela ndhelikake otomatis",
+    "matrixOverlay": "Overlay Matriks",
+    "keyboard": "Papan ketik",
+    "turnOnOffPerApp": "Aktifake / Pateni Saben Aplikasi",
+    "autoHideKeyboard": "Singidaken otomatis Keyboard",
+    "highlightShortcutKeys": "Sorot Tombol Trabasan",
+    "aboutMe": "Babagan Aku",
+    "stylizer": "Stylizer",
+    "autoSaves": "Auto Ngirit",
+    "themes": "Tema",
+    "edit": "Sunting",
+    "saveThemeAs": "Simpen Tema Minangka",
+    "noAppSelected": "Ora Ana App sing Dipilih",
+    "sidebar2": "Sidebar",
+    "mainBg": "Latar mburi utama",
+    "accentColor": "Warna Aksen",
+    "sidebarImage": "Gambar sidebar",
+    "textFontAndColor": "Teks, Font & Warna",
+    "fontSize": "Ukuran Font",
+    "sidebarTransparency": "Sidebar Transparansi",
+    "shortcuts": "Trabasan",
+    "shortcutsBg": "Latar mburi trabasan",
+    "iconColor": "Warna Ikon",
+    "backgroundImage": "Gambar latar mburi",
+    "cardTransparency": "Transparansi kertu",
+    "cardIconBorders": "Wates lambang kertu",
+    "searchShortcuts": "Telusuri Trabasan",
+    "add": "Tambah",
+    "shortcut": "Trabasan",
+    "page": "kaca",
+    "addApp": "Tambah App",
+    "appName": "Jeneng app",
+    "processName": "Jeneng Proses",
+    "lookUp": "Ndeleng munggah",
+    "cancel": "Batal",
+    "save": "Simpen",
+    "addShortcut": "Tambah Trabasan",
+    "name": "jeneng",
+    "keys": "Kunci",
+    "clickAndPressKeys": "Klik & Pencet Tombol",
+    "description": "Katrangan",
+    "rename": "Ganti jeneng",
+    "sortAZ": "Urut A-Z",
+    "deletePage": "Mbusak Kaca",
+    "delete": "Mbusak",
+    "deleteApp": "Mbusak App",
+    "resetIcon": "Reset Ikon",
+    "refreshApp": "Refresh App",
+    "exit": "metu",
+    "off": "Mati",
+    "on": "On",
+    "pathOfImg": "Path saka gambar",
+    "clearImage": "Clear Gambar",
+    "searchFonts": "Telusuri Fonts",
+    "comingSoon": "Rawuh",
+    "backup": "Gawe serep",
+    "preMade": "Pre-digawe",
+    "keyRecorderToggle": "Perekam Kunci",
+    "esc": "Esc",
+    "bksp": "Bksp",
+    "ins": "Ins",
+    "tab": "Tab",
+    "caps": "Caps",
+    "enter": "Enter",
+    "pgUp": "PgUp",
+    "shift": "Shift",
+    "pgDn": "PgDn",
+    "ctrl": "Ctrl",
+    "win": "Win",
+    "alt": "Alt",
+    "space": "Space",
+    "fn": "Fn",
+    "del": "Del",
+    "copy": "Nyalin",
+    "paste": "Tempel",
+    "cut": "Cut",
+    "undo": "batalaken",
+    "redo": "Baleni maneh",
+    "selectAll": "Pilih Kabeh",
+    "close": "Nutup",
+    "langEnglish": "Inggris",
+    "langArabic": "Arab",
+    "langBengali": "Bengali",
+    "langGerman": "Jerman",
+    "langSpanish": "Spanyol",
+    "langFrench": "Prancis",
+    "langHindi": "Hindi",
+    "langItalian": "basa Italia",
+    "langJavanese": "basa jawa",
+    "langJapanese": "Jepang",
+    "langKorean": "Korea",
+    "langDutch": "Walanda",
+    "langPolish": "Polandia",
+    "langPortuguese": "Portugis",
+    "langRussian": "Rusian",
+    "langTamil": "Tamil",
+    "langThai": "Thai",
+    "langTurkish": "basa Turki",
+    "langUrdu": "Basa Urdu",
+    "langVietnamese": "Vietnam",
+    "langChinese": "Cina",
+    "aboutTagline": "Aku duwe ide, mula aku nggawe aplikasi sing ora dijaluk!",
+    "aboutDesc": "ShortcutZ - app desktop kanggo ngatur trabasan keyboard.",
+    "aboutCreator": "Digawe dening <strong style=\"color: #fff;\">Ah-Ha</strong> kanggo mbantu sampeyan bisa luwih pinter.",
+    "linkToApp": "Link menyang App",
+    "remove": "Mbusak",
+    "optional": "Opsional",
+    "port": "Pelabuhan",
+    "import": "Ngimpor",
+    "export": "Ekspor +",
+    "appLabel": "App",
+    "portTitle": "Impor utawa Ekspor app",
+    "stylizerTitle": "Kustomisasi gaya aplikasi",
+    "snapLeft": "Snap ngiwa",
+    "snapRight": "Snap nengen",
+    "zoom": "Zoom",
+    "placeholderAppName": "contone. Photoshop",
+    "placeholderProcessName": "contone. Photoshop.exe",
+    "placeholderShortcutName": "contone. Nyalin",
+    "placeholderShortcutDesc": "contone. Salin teks sing dipilih",
+    "addNewPage": "Tambah Kaca Anyar",
+    "pageName": "Jeneng kaca",
+    "placeholderPageName": "contone. Trabasan Keyboard",
+    "whatToDelete": "Apa sing arep dibusak?",
+    "version": "Versi",
+    "themeDefault": "Default",
+    "themeComic": "Buku Komik",
+    "themeOcean": "Samudra jero",
+    "themeNoir": "Film Noir Kab",
+    "themePopart": "Seni Pop",
+    "themeSuperhero": "Superhero",
+    "themeSynthwave": "Synthwave",
+    "themeNature": "alam",
+    "themeWindows": "Windows",
+    "themeMac": "Mac",
+    "themeAdobe": "Adobe",
+    "themeOffice": "kantor",
+    "themeVscode": "Kode VS",
+    "themeSpotify": "Spotify",
+    "themeDiscord": "Discord",
+    "themeYoutube": "YouTube",
+    "themeGithub": "GitHub",
+    "themeNotion": "Pamanggih",
+    "themeFigma": "Figma",
+    "themeFirefox": "Firefox",
+    "themeChrome": "Chrome",
+    "themeBlender": "Blender",
+    "themeSlack": "Slack",
+    "themeSteam": "uap",
+    "themeAndroid": "Android",
+    "themeLinux": "Linux",
+    "themeManga": "Manga",
+    "onboardingSubtitle": "DRIFT menyang pintasan",
+    "howTo": "CARA",
+    "getStarted": "Miwiti",
+    "freshStart": "Wiwitan anyar",
+    "loadPremadeApps": "Muat Aplikasi Pre-Made",
+    "keepAll": "Tansah Kabeh",
+    "backupAllData": "Gawe serep Kabeh Data",
+    "freshStartTitle": "Mulai karo slate resik. Mbusak kabeh aplikasi, trabasan, lan setelan sing ana.",
+    "premadeTitle": "Muat template aplikasi sing wis dibangun nganggo trabasan conto kanggo miwiti kanthi cepet.",
+    "keepAllTitle": "Tansah app lan trabasan sing wis ana. Ora ana sing bakal dibusak utawa diganti.",
+    "backupTitle": "Ekspor kabeh aplikasi lan trabasan menyang file serep .cutz sing bisa disimpen lan diimpor mengko.",
+    "keyboardHintOn": "Pencet terus Enter ing Trabasan kanggo nuduhake Keyboard",
+    "keyboardHintOff": "Pencet Enter kanggo Tampilake, Pencet Ketik maneh kanggo ndhelikake",
+    "highlightHintOn": "Sorotan Tombol ing keyboard",
+    "highlightHintOff": "Ora nyorot tombol ing keyboard",
+    "editKeyboard": "Sunting",
+    "changeIcon": "Ganti Ikon",
+    "resetToDefault": "Reset menyang Default",
+    "clickToClose": "klik kene kanggo nutup",
+    "addLanguage": "Tambah Basa",
+    "removeLanguage": "Mbusak Basa",
+    "downloadLanguage": "Ngundhuh",
+    "languageInstalled": "Dipasang",
+    "languageAvailable": "kasedhiya",
+    "noLanguages": "Ora ana basa ekstra sing diinstal",
+    "changeKeyIcon": "Ganti Ikon",
+    "removeKeyIcon": "Mbusak Ikon",
+    "addKeyBg": "Tambah Latar mburi",
+    "removeKeyBg": "Mbusak Latar mburi"
+  },
+  "layout": {
+    "rows": [
+      [
+        {
+          "key": "Escape",
+          "label": "Esc"
+        },
+        {
+          "key": "F1",
+          "label": "F1"
+        },
+        {
+          "key": "F2",
+          "label": "F2"
+        },
+        {
+          "key": "F3",
+          "label": "F3"
+        },
+        {
+          "key": "F4",
+          "label": "F4"
+        },
+        {
+          "key": "F5",
+          "label": "F5"
+        },
+        {
+          "key": "F6",
+          "label": "F6"
+        },
+        {
+          "key": "F7",
+          "label": "F7"
+        },
+        {
+          "key": "F8",
+          "label": "F8"
+        },
+        {
+          "key": "F9",
+          "label": "F9"
+        },
+        {
+          "key": "F10",
+          "label": "F10"
+        },
+        {
+          "key": "F11",
+          "label": "F11"
+        },
+        {
+          "key": "F12",
+          "label": "F12"
+        }
+      ],
+      [
+        {
+          "key": "Backquote",
+          "label": "`"
+        },
+        {
+          "key": "Digit1",
+          "label": "1"
+        },
+        {
+          "key": "Digit2",
+          "label": "2"
+        },
+        {
+          "key": "Digit3",
+          "label": "3"
+        },
+        {
+          "key": "Digit4",
+          "label": "4"
+        },
+        {
+          "key": "Digit5",
+          "label": "5"
+        },
+        {
+          "key": "Digit6",
+          "label": "6"
+        },
+        {
+          "key": "Digit7",
+          "label": "7"
+        },
+        {
+          "key": "Digit8",
+          "label": "8"
+        },
+        {
+          "key": "Digit9",
+          "label": "9"
+        },
+        {
+          "key": "Digit0",
+          "label": "0"
+        },
+        {
+          "key": "Minus",
+          "label": "-"
+        },
+        {
+          "key": "Equal",
+          "label": "="
+        },
+        {
+          "key": "Backspace",
+          "label": "Bksp",
+          "w": 2
+        }
+      ],
+      [
+        {
+          "key": "Tab",
+          "label": "Tab",
+          "w": 1.5
+        },
+        {
+          "key": "KeyQ",
+          "label": "Q"
+        },
+        {
+          "key": "KeyW",
+          "label": "W"
+        },
+        {
+          "key": "KeyE",
+          "label": "E"
+        },
+        {
+          "key": "KeyR",
+          "label": "R"
+        },
+        {
+          "key": "KeyT",
+          "label": "T"
+        },
+        {
+          "key": "KeyY",
+          "label": "Y"
+        },
+        {
+          "key": "KeyU",
+          "label": "U"
+        },
+        {
+          "key": "KeyI",
+          "label": "I"
+        },
+        {
+          "key": "KeyO",
+          "label": "O"
+        },
+        {
+          "key": "KeyP",
+          "label": "P"
+        },
+        {
+          "key": "BracketLeft",
+          "label": "["
+        },
+        {
+          "key": "BracketRight",
+          "label": "]"
+        },
+        {
+          "key": "Backslash",
+          "label": "\\",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "key": "CapsLock",
+          "label": "Caps",
+          "w": 1.8
+        },
+        {
+          "key": "KeyA",
+          "label": "A"
+        },
+        {
+          "key": "KeyS",
+          "label": "S"
+        },
+        {
+          "key": "KeyD",
+          "label": "D"
+        },
+        {
+          "key": "KeyF",
+          "label": "F"
+        },
+        {
+          "key": "KeyG",
+          "label": "G"
+        },
+        {
+          "key": "KeyH",
+          "label": "H"
+        },
+        {
+          "key": "KeyJ",
+          "label": "J"
+        },
+        {
+          "key": "KeyK",
+          "label": "K"
+        },
+        {
+          "key": "KeyL",
+          "label": "L"
+        },
+        {
+          "key": "Semicolon",
+          "label": ";"
+        },
+        {
+          "key": "Quote",
+          "label": "'"
+        },
+        {
+          "key": "Enter",
+          "label": "Enter",
+          "w": 2.2
+        }
+      ],
+      [
+        {
+          "key": "ShiftLeft",
+          "label": "Shift",
+          "w": 2.3
+        },
+        {
+          "key": "KeyZ",
+          "label": "Z"
+        },
+        {
+          "key": "KeyX",
+          "label": "X"
+        },
+        {
+          "key": "KeyC",
+          "label": "C"
+        },
+        {
+          "key": "KeyV",
+          "label": "V"
+        },
+        {
+          "key": "KeyB",
+          "label": "B"
+        },
+        {
+          "key": "KeyN",
+          "label": "N"
+        },
+        {
+          "key": "KeyM",
+          "label": "M"
+        },
+        {
+          "key": "Comma",
+          "label": ","
+        },
+        {
+          "key": "Period",
+          "label": "."
+        },
+        {
+          "key": "Slash",
+          "label": "/"
+        },
+        {
+          "key": "ShiftRight",
+          "label": "Shift",
+          "w": 2.7
+        }
+      ],
+      [
+        {
+          "key": "ControlLeft",
+          "label": "Ctrl",
+          "w": 1.4
+        },
+        {
+          "key": "MetaLeft",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "AltLeft",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "Space",
+          "label": "Space",
+          "w": 6
+        },
+        {
+          "key": "AltRight",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "MetaRight",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "ContextMenu",
+          "label": "Fn",
+          "w": 1.2
+        },
+        {
+          "key": "ControlRight",
+          "label": "Ctrl",
+          "w": 1.4
+        }
+      ]
+    ]
+  },
+  "modifiers": {
+    "windows": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Win",
+        "label": "Win"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "ContextMenu",
+        "label": "Fn"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ],
+    "mac": [
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      }
+    ],
+    "linux": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ]
+  },
+  "arrows": {
+    "up": "ArrowUp",
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight"
+  }
+}

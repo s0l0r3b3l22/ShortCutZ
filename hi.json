@@ -1,0 +1,627 @@
+{
+  "code": "hi",
+  "name": "हिन्दी",
+  "ui": {
+    "menu": "मेनू",
+    "forums": "मंचों",
+    "donate": "दान करें",
+    "showWindow": "विंडो दिखाएँ",
+    "hotKey": "गर्म कुंजी",
+    "both": "दोनों",
+    "bumper": "बम्पर",
+    "clickToChange": "बदलने के लिए क्लिक करें",
+    "sidebar": "साइड बार",
+    "autoHideSidebar": "साइडबार को स्वतः छिपाएँ",
+    "hideDelay": "विलंब छिपाएँ",
+    "window": "खिड़की",
+    "autoHideWindow": "विंडो को स्वतः छिपाएं",
+    "matrixOverlay": "मैट्रिक्स ओवरले",
+    "keyboard": "कीबोर्ड",
+    "turnOnOffPerApp": "प्रति ऐप चालू/बंद करें",
+    "autoHideKeyboard": "कीबोर्ड को स्वतः छिपाएँ",
+    "highlightShortcutKeys": "शॉर्टकट कुंजियाँ हाइलाइट करें",
+    "aboutMe": "मेरे बारे में",
+    "stylizer": "स्टाइलाइज़र",
+    "autoSaves": "स्वतः सहेजता है",
+    "themes": "विषय-वस्तु",
+    "edit": "संपादन करना",
+    "saveThemeAs": "थीम को इस रूप में सहेजें",
+    "noAppSelected": "कोई ऐप चयनित नहीं",
+    "sidebar2": "साइड बार",
+    "mainBg": "मुख्य पृष्ठभूमि",
+    "accentColor": "एक्सेंट रंग",
+    "sidebarImage": "साइडबार छवि",
+    "textFontAndColor": "पाठ, फ़ॉन्ट और रंग",
+    "fontSize": "फ़ॉन्ट आकार",
+    "sidebarTransparency": "साइडबार पारदर्शिता",
+    "shortcuts": "शॉर्टकट",
+    "shortcutsBg": "शॉर्टकट पृष्ठभूमि",
+    "iconColor": "चिह्न रंग",
+    "backgroundImage": "पृष्ठभूमि छवि",
+    "cardTransparency": "कार्ड पारदर्शिता",
+    "cardIconBorders": "कार्ड चिह्न सीमाएँ",
+    "searchShortcuts": "शॉर्टकट खोजें",
+    "add": "जोड़ना",
+    "shortcut": "शॉर्टकट",
+    "page": "पेज",
+    "addApp": "ऐप जोड़ें",
+    "appName": "ऐप का नाम",
+    "processName": "प्रक्रिया नाम",
+    "lookUp": "ऊपर देखो",
+    "cancel": "रद्द करना",
+    "save": "बचाना",
+    "addShortcut": "छोटा रास्ता जोडें",
+    "name": "नाम",
+    "keys": "कुंजियाँ",
+    "clickAndPressKeys": "क्लिक करें और कुँजियाँ दबाएँ",
+    "description": "विवरण",
+    "rename": "नाम बदलें",
+    "sortAZ": "ए-जेड क्रमबद्ध करें",
+    "deletePage": "पृष्ठ हटाएँ",
+    "delete": "मिटाना",
+    "deleteApp": "ऐप हटाएं",
+    "resetIcon": "आइकन रीसेट करें",
+    "refreshApp": "ऐप रिफ्रेश करें",
+    "exit": "बाहर निकलना",
+    "off": "बंद",
+    "on": "पर",
+    "pathOfImg": "छवि का पथ",
+    "clearImage": "चित्र हटाएं",
+    "searchFonts": "फ़ॉन्ट खोजें",
+    "comingSoon": "जल्द आ रहा है",
+    "backup": "बैकअप",
+    "preMade": "पूर्व निर्मित",
+    "keyRecorderToggle": "कुंजी रिकॉर्डर",
+    "esc": "Esc",
+    "bksp": "Bksp",
+    "ins": "Ins",
+    "tab": "Tab",
+    "caps": "Caps",
+    "enter": "Enter",
+    "pgUp": "PgUp",
+    "shift": "Shift",
+    "pgDn": "PgDn",
+    "ctrl": "Ctrl",
+    "win": "Win",
+    "alt": "Alt",
+    "space": "Space",
+    "fn": "Fn",
+    "del": "Del",
+    "copy": "प्रतिलिपि",
+    "paste": "पेस्ट करें",
+    "cut": "काटना",
+    "undo": "पूर्ववत",
+    "redo": "फिर से करना",
+    "selectAll": "सबका चयन करें",
+    "close": "बंद करना",
+    "langEnglish": "अंग्रेज़ी",
+    "langArabic": "अरबी",
+    "langBengali": "बंगाली",
+    "langGerman": "जर्मन",
+    "langSpanish": "स्पैनिश",
+    "langFrench": "फ़्रेंच",
+    "langHindi": "हिंदी",
+    "langItalian": "इतालवी",
+    "langJavanese": "जावानीस",
+    "langJapanese": "जापानी",
+    "langKorean": "कोरियाई",
+    "langDutch": "डच",
+    "langPolish": "पोलिश",
+    "langPortuguese": "पुर्तगाली",
+    "langRussian": "रूसी",
+    "langTamil": "तामिल",
+    "langThai": "थाई",
+    "langTurkish": "तुर्की",
+    "langUrdu": "उर्दू",
+    "langVietnamese": "वियतनामी",
+    "langChinese": "चीनी",
+    "aboutTagline": "मेरे पास एक विचार था, इसलिए मैंने एक ऐसा ऐप बनाया जिसे किसी ने नहीं पूछा!",
+    "aboutDesc": "शॉर्टकटज़ - कीबोर्ड शॉर्टकट प्रबंधित करने के लिए एक डेस्कटॉप ऐप।",
+    "aboutCreator": "Created by <strong style=\"color: #fff;\">Ah-Ha</strong> to help you work smarter.",
+    "linkToApp": "इसे ऐप से लिंक करें",
+    "remove": "निकालना",
+    "optional": "वैकल्पिक",
+    "port": "पत्तन",
+    "import": "आयात",
+    "export": "निर्यात +",
+    "appLabel": "अनुप्रयोग",
+    "portTitle": "ऐप्स आयात या निर्यात करें",
+    "stylizerTitle": "ऐप शैली को अनुकूलित करें",
+    "snapLeft": "बाईं ओर स्नैप करें",
+    "snapRight": "दाईं ओर स्नैप करें",
+    "zoom": "ज़ूम",
+    "placeholderAppName": "जैसे फ़ोटोशॉप",
+    "placeholderProcessName": "जैसे Photoshop.exe",
+    "placeholderShortcutName": "जैसे प्रतिलिपि",
+    "placeholderShortcutDesc": "जैसे चयनित पाठ की प्रतिलिपि बनाएँ",
+    "addNewPage": "नया पेज जोड़ें",
+    "pageName": "पेज का नाम",
+    "placeholderPageName": "जैसे कुंजीपटल अल्प मार्ग",
+    "whatToDelete": "आप क्या हटाना चाहेंगे?",
+    "version": "संस्करण",
+    "themeDefault": "गलती करना",
+    "themeComic": "हास्य पुस्तक",
+    "themeOcean": "गहरा समुद्र",
+    "themeNoir": "फ़िल्म नोयर",
+    "themePopart": "पॉप कला",
+    "themeSuperhero": "सुपर हीरो",
+    "themeSynthwave": "सिंथवेव",
+    "themeNature": "प्रकृति",
+    "themeWindows": "खिड़कियाँ",
+    "themeMac": "मैक",
+    "themeAdobe": "एडोब",
+    "themeOffice": "कार्यालय",
+    "themeVscode": "वीएस कोड",
+    "themeSpotify": "Spotify",
+    "themeDiscord": "कलह",
+    "themeYoutube": "यूट्यूब",
+    "themeGithub": "GitHub",
+    "themeNotion": "धारणा",
+    "themeFigma": "फिग्मा",
+    "themeFirefox": "फ़ायरफ़ॉक्स",
+    "themeChrome": "क्रोम",
+    "themeBlender": "ब्लेंडर",
+    "themeSlack": "ढीला",
+    "themeSteam": "भाप",
+    "themeAndroid": "एंड्रॉइड",
+    "themeLinux": "लिनक्स",
+    "themeManga": "मंगा",
+    "onboardingSubtitle": "शॉर्टकट में बह जाओ",
+    "howTo": "कैसे करें",
+    "getStarted": "शुरू हो जाओ",
+    "freshStart": "नयी शुरुआत",
+    "loadPremadeApps": "पूर्व-निर्मित ऐप्स लोड करें",
+    "keepAll": "सभी रखें",
+    "backupAllData": "सभी डेटा का बैकअप लें",
+    "freshStartTitle": "एक साफ़ स्लेट से शुरुआत करें. सभी मौजूदा ऐप्स, शॉर्टकट और सेटिंग्स हटा देता है।",
+    "premadeTitle": "शीघ्रता से आरंभ करने के लिए नमूना शॉर्टकट के साथ पूर्व-निर्मित ऐप टेम्पलेट लोड करें।",
+    "keepAllTitle": "अपने मौजूदा ऐप्स और शॉर्टकट्स को वैसे ही रखें। कुछ भी हटाया या बदला नहीं जाएगा.",
+    "backupTitle": "अपने सभी ऐप्स और शॉर्टकट को .cutz बैकअप फ़ाइल में निर्यात करें जिसे आप बाद में सहेज और आयात कर सकते हैं।",
+    "keyboardHintOn": "कीबोर्ड दिखाने के लिए शॉर्टकट पर एंटर दबाकर रखें",
+    "keyboardHintOff": "दिखाने के लिए Enter दबाएँ, छिपाने के लिए फिर से Enter दबाएँ",
+    "highlightHintOn": "कीबोर्ड पर कुंजियाँ हाइलाइट करें",
+    "highlightHintOff": "कीबोर्ड पर कुंजियाँ हाइलाइट नहीं करता",
+    "editKeyboard": "संपादन करना",
+    "changeIcon": "चिह्न बदलें",
+    "resetToDefault": "वितथ पर ले जाएं",
+    "clickToClose": "बंद करने के लिए यहां क्लिक करें",
+    "addLanguage": "भाषा जोड़ें",
+    "removeLanguage": "भाषा हटाएँ",
+    "downloadLanguage": "डाउनलोड करना",
+    "languageInstalled": "स्थापित",
+    "languageAvailable": "उपलब्ध",
+    "noLanguages": "कोई अतिरिक्त भाषाएँ स्थापित नहीं हैं",
+    "changeKeyIcon": "चिह्न बदलें",
+    "removeKeyIcon": "चिह्न हटाएँ",
+    "addKeyBg": "पृष्ठभूमि जोड़ें",
+    "removeKeyBg": "पृष्ठभूमि निकालें"
+  },
+  "layout": {
+    "rows": [
+      [
+        {
+          "key": "Escape",
+          "label": "Esc"
+        },
+        {
+          "key": "F1",
+          "label": "F1"
+        },
+        {
+          "key": "F2",
+          "label": "F2"
+        },
+        {
+          "key": "F3",
+          "label": "F3"
+        },
+        {
+          "key": "F4",
+          "label": "F4"
+        },
+        {
+          "key": "F5",
+          "label": "F5"
+        },
+        {
+          "key": "F6",
+          "label": "F6"
+        },
+        {
+          "key": "F7",
+          "label": "F7"
+        },
+        {
+          "key": "F8",
+          "label": "F8"
+        },
+        {
+          "key": "F9",
+          "label": "F9"
+        },
+        {
+          "key": "F10",
+          "label": "F10"
+        },
+        {
+          "key": "F11",
+          "label": "F11"
+        },
+        {
+          "key": "F12",
+          "label": "F12"
+        }
+      ],
+      [
+        {
+          "key": "Backquote",
+          "label": "`"
+        },
+        {
+          "key": "Digit1",
+          "label": "1"
+        },
+        {
+          "key": "Digit2",
+          "label": "2"
+        },
+        {
+          "key": "Digit3",
+          "label": "3"
+        },
+        {
+          "key": "Digit4",
+          "label": "4"
+        },
+        {
+          "key": "Digit5",
+          "label": "5"
+        },
+        {
+          "key": "Digit6",
+          "label": "6"
+        },
+        {
+          "key": "Digit7",
+          "label": "7"
+        },
+        {
+          "key": "Digit8",
+          "label": "8"
+        },
+        {
+          "key": "Digit9",
+          "label": "9"
+        },
+        {
+          "key": "Digit0",
+          "label": "0"
+        },
+        {
+          "key": "Minus",
+          "label": "-"
+        },
+        {
+          "key": "Equal",
+          "label": "="
+        },
+        {
+          "key": "Backspace",
+          "label": "Bksp",
+          "w": 2
+        }
+      ],
+      [
+        {
+          "key": "Tab",
+          "label": "Tab",
+          "w": 1.5
+        },
+        {
+          "key": "KeyQ",
+          "label": "Q"
+        },
+        {
+          "key": "KeyW",
+          "label": "W"
+        },
+        {
+          "key": "KeyE",
+          "label": "E"
+        },
+        {
+          "key": "KeyR",
+          "label": "R"
+        },
+        {
+          "key": "KeyT",
+          "label": "T"
+        },
+        {
+          "key": "KeyY",
+          "label": "Y"
+        },
+        {
+          "key": "KeyU",
+          "label": "U"
+        },
+        {
+          "key": "KeyI",
+          "label": "I"
+        },
+        {
+          "key": "KeyO",
+          "label": "O"
+        },
+        {
+          "key": "KeyP",
+          "label": "P"
+        },
+        {
+          "key": "BracketLeft",
+          "label": "["
+        },
+        {
+          "key": "BracketRight",
+          "label": "]"
+        },
+        {
+          "key": "Backslash",
+          "label": "\\",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "key": "CapsLock",
+          "label": "Caps",
+          "w": 1.8
+        },
+        {
+          "key": "KeyA",
+          "label": "A"
+        },
+        {
+          "key": "KeyS",
+          "label": "S"
+        },
+        {
+          "key": "KeyD",
+          "label": "D"
+        },
+        {
+          "key": "KeyF",
+          "label": "F"
+        },
+        {
+          "key": "KeyG",
+          "label": "G"
+        },
+        {
+          "key": "KeyH",
+          "label": "H"
+        },
+        {
+          "key": "KeyJ",
+          "label": "J"
+        },
+        {
+          "key": "KeyK",
+          "label": "K"
+        },
+        {
+          "key": "KeyL",
+          "label": "L"
+        },
+        {
+          "key": "Semicolon",
+          "label": ";"
+        },
+        {
+          "key": "Quote",
+          "label": "'"
+        },
+        {
+          "key": "Enter",
+          "label": "Enter",
+          "w": 2.2
+        }
+      ],
+      [
+        {
+          "key": "ShiftLeft",
+          "label": "Shift",
+          "w": 2.3
+        },
+        {
+          "key": "KeyZ",
+          "label": "Z"
+        },
+        {
+          "key": "KeyX",
+          "label": "X"
+        },
+        {
+          "key": "KeyC",
+          "label": "C"
+        },
+        {
+          "key": "KeyV",
+          "label": "V"
+        },
+        {
+          "key": "KeyB",
+          "label": "B"
+        },
+        {
+          "key": "KeyN",
+          "label": "N"
+        },
+        {
+          "key": "KeyM",
+          "label": "M"
+        },
+        {
+          "key": "Comma",
+          "label": ","
+        },
+        {
+          "key": "Period",
+          "label": "."
+        },
+        {
+          "key": "Slash",
+          "label": "/"
+        },
+        {
+          "key": "ShiftRight",
+          "label": "Shift",
+          "w": 2.7
+        }
+      ],
+      [
+        {
+          "key": "ControlLeft",
+          "label": "Ctrl",
+          "w": 1.4
+        },
+        {
+          "key": "MetaLeft",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "AltLeft",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "Space",
+          "label": "Space",
+          "w": 6
+        },
+        {
+          "key": "AltRight",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "MetaRight",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "ContextMenu",
+          "label": "Fn",
+          "w": 1.2
+        },
+        {
+          "key": "ControlRight",
+          "label": "Ctrl",
+          "w": 1.4
+        }
+      ]
+    ]
+  },
+  "modifiers": {
+    "windows": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Win",
+        "label": "Win"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "ContextMenu",
+        "label": "Fn"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ],
+    "mac": [
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      }
+    ],
+    "linux": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ]
+  },
+  "arrows": {
+    "up": "ArrowUp",
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight"
+  }
+}

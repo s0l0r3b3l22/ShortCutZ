@@ -1,0 +1,627 @@
+{
+  "code": "zh",
+  "name": "中文",
+  "ui": {
+    "menu": "菜单",
+    "forums": "论坛",
+    "donate": "捐",
+    "showWindow": "橱窗",
+    "hotKey": "热键",
+    "both": "两个都",
+    "bumper": "保险杠",
+    "clickToChange": "点击更改",
+    "sidebar": "侧边栏",
+    "autoHideSidebar": "自动隐藏侧边栏",
+    "hideDelay": "隐藏延迟",
+    "window": "窗户",
+    "autoHideWindow": "自动隐藏窗口",
+    "matrixOverlay": "矩阵叠加",
+    "keyboard": "键盘",
+    "turnOnOffPerApp": "每个应用程序打开/关闭",
+    "autoHideKeyboard": "自动隐藏键盘",
+    "highlightShortcutKeys": "高亮显示快捷键",
+    "aboutMe": "关于我",
+    "stylizer": "造型器",
+    "autoSaves": "自动保存",
+    "themes": "主题",
+    "edit": "编辑",
+    "saveThemeAs": "将主题另存为",
+    "noAppSelected": "未选择应用程序",
+    "sidebar2": "侧边栏",
+    "mainBg": "主要背景",
+    "accentColor": "强调色",
+    "sidebarImage": "侧边栏图片",
+    "textFontAndColor": "文本、字体和颜色",
+    "fontSize": "字体大小",
+    "sidebarTransparency": "侧边栏透明度",
+    "shortcuts": "快捷方式",
+    "shortcutsBg": "快捷方式背景",
+    "iconColor": "图标颜色",
+    "backgroundImage": "背景图片",
+    "cardTransparency": "卡片透明度",
+    "cardIconBorders": "卡图标边框",
+    "searchShortcuts": "搜索快捷方式",
+    "add": "添加",
+    "shortcut": "捷径",
+    "page": "页",
+    "addApp": "添加应用程序",
+    "appName": "应用程序名称",
+    "processName": "进程名称",
+    "lookUp": "抬头",
+    "cancel": "取消",
+    "save": "节省",
+    "addShortcut": "添加快捷方式",
+    "name": "姓名",
+    "keys": "按键",
+    "clickAndPressKeys": "单击并按键",
+    "description": "描述",
+    "rename": "重命名",
+    "sortAZ": "从 A-Z 排序",
+    "deletePage": "删除页面",
+    "delete": "删除",
+    "deleteApp": "删除应用程序",
+    "resetIcon": "重置图标",
+    "refreshApp": "刷新应用程序",
+    "exit": "出口",
+    "off": "离开",
+    "on": "在",
+    "pathOfImg": "图像路径",
+    "clearImage": "清晰的图像",
+    "searchFonts": "搜索字体",
+    "comingSoon": "即将推出",
+    "backup": "备份",
+    "preMade": "预制的",
+    "keyRecorderToggle": "按键录音机",
+    "esc": "Esc",
+    "bksp": "Bksp",
+    "ins": "Ins",
+    "tab": "Tab",
+    "caps": "Caps",
+    "enter": "Enter",
+    "pgUp": "PgUp",
+    "shift": "Shift",
+    "pgDn": "PgDn",
+    "ctrl": "Ctrl",
+    "win": "Win",
+    "alt": "Alt",
+    "space": "Space",
+    "fn": "Fn",
+    "del": "Del",
+    "copy": "复制",
+    "paste": "粘贴",
+    "cut": "切",
+    "undo": "撤消",
+    "redo": "重做",
+    "selectAll": "选择全部",
+    "close": "关闭",
+    "langEnglish": "英语",
+    "langArabic": "阿拉伯",
+    "langBengali": "孟加拉",
+    "langGerman": "德语",
+    "langSpanish": "西班牙语",
+    "langFrench": "法语",
+    "langHindi": "印地语",
+    "langItalian": "意大利语",
+    "langJavanese": "爪哇语",
+    "langJapanese": "日本人",
+    "langKorean": "韩国人",
+    "langDutch": "荷兰语",
+    "langPolish": "抛光",
+    "langPortuguese": "葡萄牙语",
+    "langRussian": "俄语",
+    "langTamil": "泰米尔语",
+    "langThai": "泰国",
+    "langTurkish": "土耳其",
+    "langUrdu": "乌尔都语",
+    "langVietnamese": "越南语",
+    "langChinese": "中国人",
+    "aboutTagline": "我有一个想法，所以我制作了一个没人要求的应用程序！",
+    "aboutDesc": "ShortcutZ - 用于管理键盘快捷键的桌面应用程序。",
+    "aboutCreator": "Created by <strong style=\"color: #fff;\">Ah-Ha</strong> to help you work smarter.",
+    "linkToApp": "将其链接到应用程序",
+    "remove": "消除",
+    "optional": "选修的",
+    "port": "港口",
+    "import": "进口",
+    "export": "出口+",
+    "appLabel": "应用程序",
+    "portTitle": "导入或导出应用程序",
+    "stylizerTitle": "自定义应用程序风格",
+    "snapLeft": "向左对齐",
+    "snapRight": "向右对齐",
+    "zoom": "飞涨",
+    "placeholderAppName": "例如Photoshop",
+    "placeholderProcessName": "例如Photoshop.exe",
+    "placeholderShortcutName": "例如复制",
+    "placeholderShortcutDesc": "例如复制选定的文本",
+    "addNewPage": "添加新页面",
+    "pageName": "页面名称",
+    "placeholderPageName": "例如键盘快捷键",
+    "whatToDelete": "您想删除什么？",
+    "version": "版本",
+    "themeDefault": "默认",
+    "themeComic": "漫画书",
+    "themeOcean": "深海",
+    "themeNoir": "黑色电影",
+    "themePopart": "波普艺术",
+    "themeSuperhero": "超级英雄",
+    "themeSynthwave": "合成波",
+    "themeNature": "自然",
+    "themeWindows": "视窗",
+    "themeMac": "苹果",
+    "themeAdobe": "土坯",
+    "themeOffice": "办公室",
+    "themeVscode": "VS代码",
+    "themeSpotify": "Spotify",
+    "themeDiscord": "不和谐",
+    "themeYoutube": "YouTube",
+    "themeGithub": "GitHub",
+    "themeNotion": "概念",
+    "themeFigma": "菲格玛",
+    "themeFirefox": "火狐浏览器",
+    "themeChrome": "铬合金",
+    "themeBlender": "混合器",
+    "themeSlack": "松弛",
+    "themeSteam": "蒸汽",
+    "themeAndroid": "安卓",
+    "themeLinux": "Linux",
+    "themeManga": "漫画",
+    "onboardingSubtitle": "走捷径",
+    "howTo": "如何做",
+    "getStarted": "开始使用",
+    "freshStart": "新的开始",
+    "loadPremadeApps": "加载预制应用程序",
+    "keepAll": "全部保留",
+    "backupAllData": "备份所有数据",
+    "freshStartTitle": "从头开始。删除所有现有应用程序、快捷方式和设置。",
+    "premadeTitle": "加载带有示例快捷方式的预构建应用程序模板，以便快速开始。",
+    "keepAllTitle": "保持现有应用程序和快捷方式不变。任何内容都不会被删除或更改。",
+    "backupTitle": "将所有应用程序和快捷方式导出到 .cutz 备份文件，以便稍后保存和导入。",
+    "keyboardHintOn": "按住快捷键上的 Enter 键以显示键盘",
+    "keyboardHintOff": "按 Enter 键显示，再次按 Enter 键隐藏",
+    "highlightHintOn": "突出显示键盘上的按键",
+    "highlightHintOff": "不突出显示键盘上的按键",
+    "editKeyboard": "编辑",
+    "changeIcon": "更改图标",
+    "resetToDefault": "重置为默认值",
+    "clickToClose": "单击此处关闭",
+    "addLanguage": "添加语言",
+    "removeLanguage": "删除语言",
+    "downloadLanguage": "下载",
+    "languageInstalled": "已安装",
+    "languageAvailable": "可用的",
+    "noLanguages": "没有安装额外的语言",
+    "changeKeyIcon": "更改图标",
+    "removeKeyIcon": "删除图标",
+    "addKeyBg": "添加背景",
+    "removeKeyBg": "删除背景"
+  },
+  "layout": {
+    "rows": [
+      [
+        {
+          "key": "Escape",
+          "label": "Esc"
+        },
+        {
+          "key": "F1",
+          "label": "F1"
+        },
+        {
+          "key": "F2",
+          "label": "F2"
+        },
+        {
+          "key": "F3",
+          "label": "F3"
+        },
+        {
+          "key": "F4",
+          "label": "F4"
+        },
+        {
+          "key": "F5",
+          "label": "F5"
+        },
+        {
+          "key": "F6",
+          "label": "F6"
+        },
+        {
+          "key": "F7",
+          "label": "F7"
+        },
+        {
+          "key": "F8",
+          "label": "F8"
+        },
+        {
+          "key": "F9",
+          "label": "F9"
+        },
+        {
+          "key": "F10",
+          "label": "F10"
+        },
+        {
+          "key": "F11",
+          "label": "F11"
+        },
+        {
+          "key": "F12",
+          "label": "F12"
+        }
+      ],
+      [
+        {
+          "key": "Backquote",
+          "label": "`"
+        },
+        {
+          "key": "Digit1",
+          "label": "1"
+        },
+        {
+          "key": "Digit2",
+          "label": "2"
+        },
+        {
+          "key": "Digit3",
+          "label": "3"
+        },
+        {
+          "key": "Digit4",
+          "label": "4"
+        },
+        {
+          "key": "Digit5",
+          "label": "5"
+        },
+        {
+          "key": "Digit6",
+          "label": "6"
+        },
+        {
+          "key": "Digit7",
+          "label": "7"
+        },
+        {
+          "key": "Digit8",
+          "label": "8"
+        },
+        {
+          "key": "Digit9",
+          "label": "9"
+        },
+        {
+          "key": "Digit0",
+          "label": "0"
+        },
+        {
+          "key": "Minus",
+          "label": "-"
+        },
+        {
+          "key": "Equal",
+          "label": "="
+        },
+        {
+          "key": "Backspace",
+          "label": "Bksp",
+          "w": 2
+        }
+      ],
+      [
+        {
+          "key": "Tab",
+          "label": "Tab",
+          "w": 1.5
+        },
+        {
+          "key": "KeyQ",
+          "label": "Q"
+        },
+        {
+          "key": "KeyW",
+          "label": "W"
+        },
+        {
+          "key": "KeyE",
+          "label": "E"
+        },
+        {
+          "key": "KeyR",
+          "label": "R"
+        },
+        {
+          "key": "KeyT",
+          "label": "T"
+        },
+        {
+          "key": "KeyY",
+          "label": "Y"
+        },
+        {
+          "key": "KeyU",
+          "label": "U"
+        },
+        {
+          "key": "KeyI",
+          "label": "I"
+        },
+        {
+          "key": "KeyO",
+          "label": "O"
+        },
+        {
+          "key": "KeyP",
+          "label": "P"
+        },
+        {
+          "key": "BracketLeft",
+          "label": "["
+        },
+        {
+          "key": "BracketRight",
+          "label": "]"
+        },
+        {
+          "key": "Backslash",
+          "label": "\\",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "key": "CapsLock",
+          "label": "Caps",
+          "w": 1.8
+        },
+        {
+          "key": "KeyA",
+          "label": "A"
+        },
+        {
+          "key": "KeyS",
+          "label": "S"
+        },
+        {
+          "key": "KeyD",
+          "label": "D"
+        },
+        {
+          "key": "KeyF",
+          "label": "F"
+        },
+        {
+          "key": "KeyG",
+          "label": "G"
+        },
+        {
+          "key": "KeyH",
+          "label": "H"
+        },
+        {
+          "key": "KeyJ",
+          "label": "J"
+        },
+        {
+          "key": "KeyK",
+          "label": "K"
+        },
+        {
+          "key": "KeyL",
+          "label": "L"
+        },
+        {
+          "key": "Semicolon",
+          "label": ";"
+        },
+        {
+          "key": "Quote",
+          "label": "'"
+        },
+        {
+          "key": "Enter",
+          "label": "Enter",
+          "w": 2.2
+        }
+      ],
+      [
+        {
+          "key": "ShiftLeft",
+          "label": "Shift",
+          "w": 2.3
+        },
+        {
+          "key": "KeyZ",
+          "label": "Z"
+        },
+        {
+          "key": "KeyX",
+          "label": "X"
+        },
+        {
+          "key": "KeyC",
+          "label": "C"
+        },
+        {
+          "key": "KeyV",
+          "label": "V"
+        },
+        {
+          "key": "KeyB",
+          "label": "B"
+        },
+        {
+          "key": "KeyN",
+          "label": "N"
+        },
+        {
+          "key": "KeyM",
+          "label": "M"
+        },
+        {
+          "key": "Comma",
+          "label": ","
+        },
+        {
+          "key": "Period",
+          "label": "."
+        },
+        {
+          "key": "Slash",
+          "label": "/"
+        },
+        {
+          "key": "ShiftRight",
+          "label": "Shift",
+          "w": 2.7
+        }
+      ],
+      [
+        {
+          "key": "ControlLeft",
+          "label": "Ctrl",
+          "w": 1.4
+        },
+        {
+          "key": "MetaLeft",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "AltLeft",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "Space",
+          "label": "Space",
+          "w": 6
+        },
+        {
+          "key": "AltRight",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "MetaRight",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "ContextMenu",
+          "label": "Fn",
+          "w": 1.2
+        },
+        {
+          "key": "ControlRight",
+          "label": "Ctrl",
+          "w": 1.4
+        }
+      ]
+    ]
+  },
+  "modifiers": {
+    "windows": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Win",
+        "label": "Win"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "ContextMenu",
+        "label": "Fn"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ],
+    "mac": [
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      }
+    ],
+    "linux": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ]
+  },
+  "arrows": {
+    "up": "ArrowUp",
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight"
+  }
+}

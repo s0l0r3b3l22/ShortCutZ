@@ -1,0 +1,627 @@
+{
+  "code": "th",
+  "name": "ไทย",
+  "ui": {
+    "menu": "เมนู",
+    "forums": "ฟอรั่ม",
+    "donate": "บริจาค",
+    "showWindow": "แสดงหน้าต่าง",
+    "hotKey": "ฮอตคีย์",
+    "both": "ทั้งคู่",
+    "bumper": "กันชน",
+    "clickToChange": "คลิกเพื่อเปลี่ยนแปลง",
+    "sidebar": "แถบด้านข้าง",
+    "autoHideSidebar": "ซ่อนแถบด้านข้างอัตโนมัติ",
+    "hideDelay": "ซ่อนความล่าช้า",
+    "window": "หน้าต่าง",
+    "autoHideWindow": "ซ่อนหน้าต่างอัตโนมัติ",
+    "matrixOverlay": "การซ้อนทับเมทริกซ์",
+    "keyboard": "คีย์บอร์ด",
+    "turnOnOffPerApp": "เปิด/ปิดต่อแอป",
+    "autoHideKeyboard": "ซ่อนคีย์บอร์ดอัตโนมัติ",
+    "highlightShortcutKeys": "ไฮไลท์ปุ่มลัด",
+    "aboutMe": "เกี่ยวกับฉัน",
+    "stylizer": "สไตไลเซอร์",
+    "autoSaves": "บันทึกอัตโนมัติ",
+    "themes": "ธีมส์",
+    "edit": "แก้ไข",
+    "saveThemeAs": "บันทึกธีมเป็น",
+    "noAppSelected": "ไม่ได้เลือกแอป",
+    "sidebar2": "แถบด้านข้าง",
+    "mainBg": "พื้นหลังหลัก",
+    "accentColor": "สีเน้น",
+    "sidebarImage": "รูปภาพแถบด้านข้าง",
+    "textFontAndColor": "ข้อความ แบบอักษร และสี",
+    "fontSize": "ขนาดตัวอักษร",
+    "sidebarTransparency": "ความโปร่งใสของแถบด้านข้าง",
+    "shortcuts": "ทางลัด",
+    "shortcutsBg": "พื้นหลังทางลัด",
+    "iconColor": "สีไอคอน",
+    "backgroundImage": "ภาพพื้นหลัง",
+    "cardTransparency": "ความโปร่งใสของการ์ด",
+    "cardIconBorders": "เส้นขอบไอคอนการ์ด",
+    "searchShortcuts": "ค้นหาทางลัด",
+    "add": "เพิ่ม",
+    "shortcut": "ทางลัด",
+    "page": "หน้าหนังสือ",
+    "addApp": "เพิ่มแอป",
+    "appName": "ชื่อแอป",
+    "processName": "ชื่อกระบวนการ",
+    "lookUp": "มองขึ้นไป",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "addShortcut": "เพิ่มทางลัด",
+    "name": "ชื่อ",
+    "keys": "กุญแจ",
+    "clickAndPressKeys": "คลิกและกดปุ่ม",
+    "description": "คำอธิบาย",
+    "rename": "เปลี่ยนชื่อ",
+    "sortAZ": "เรียง A-Z",
+    "deletePage": "ลบเพจ",
+    "delete": "ลบ",
+    "deleteApp": "ลบแอป",
+    "resetIcon": "รีเซ็ตไอคอน",
+    "refreshApp": "รีเฟรชแอป",
+    "exit": "ออก",
+    "off": "ปิด",
+    "on": "บน",
+    "pathOfImg": "เส้นทางของภาพ",
+    "clearImage": "ภาพที่ชัดเจน",
+    "searchFonts": "ค้นหาแบบอักษร",
+    "comingSoon": "เร็วๆ นี้",
+    "backup": "สำรองข้อมูล",
+    "preMade": "ทำไว้ล่วงหน้า",
+    "keyRecorderToggle": "เครื่องบันทึกคีย์",
+    "esc": "Esc",
+    "bksp": "Bksp",
+    "ins": "Ins",
+    "tab": "Tab",
+    "caps": "Caps",
+    "enter": "Enter",
+    "pgUp": "PgUp",
+    "shift": "Shift",
+    "pgDn": "PgDn",
+    "ctrl": "Ctrl",
+    "win": "Win",
+    "alt": "Alt",
+    "space": "Space",
+    "fn": "Fn",
+    "del": "Del",
+    "copy": "สำเนา",
+    "paste": "แปะ",
+    "cut": "ตัด",
+    "undo": "เลิกทำ",
+    "redo": "ทำซ้ำ",
+    "selectAll": "เลือกทั้งหมด",
+    "close": "ปิด",
+    "langEnglish": "ภาษาอังกฤษ",
+    "langArabic": "ภาษาอาหรับ",
+    "langBengali": "เบงกาลี",
+    "langGerman": "เยอรมัน",
+    "langSpanish": "สเปน",
+    "langFrench": "ภาษาฝรั่งเศส",
+    "langHindi": "ฮินดี",
+    "langItalian": "ภาษาอิตาลี",
+    "langJavanese": "ชวา",
+    "langJapanese": "ญี่ปุ่น",
+    "langKorean": "เกาหลี",
+    "langDutch": "ภาษาดัตช์",
+    "langPolish": "ขัด",
+    "langPortuguese": "โปรตุเกส",
+    "langRussian": "ภาษารัสเซีย",
+    "langTamil": "ทมิฬ",
+    "langThai": "แบบไทย",
+    "langTurkish": "ภาษาตุรกี",
+    "langUrdu": "ภาษาอูรดู",
+    "langVietnamese": "ภาษาเวียดนาม",
+    "langChinese": "ชาวจีน",
+    "aboutTagline": "ฉันมีความคิด ดังนั้นฉันจึงสร้างแอปที่ไม่มีใครขอ!",
+    "aboutDesc": "ShortcutZ - แอปเดสก์ท็อปสำหรับจัดการแป้นพิมพ์ลัด",
+    "aboutCreator": "Created by <strong style=\"color: #fff;\">Ah-Ha</strong> to help you work smarter.",
+    "linkToApp": "เชื่อมโยงไปยังแอป",
+    "remove": "ลบ",
+    "optional": "ไม่จำเป็น",
+    "port": "ท่าเรือ",
+    "import": "นำเข้า",
+    "export": "ส่งออก +",
+    "appLabel": "แอป",
+    "portTitle": "นำเข้าหรือส่งออกแอป",
+    "stylizerTitle": "ปรับแต่งสไตล์แอพ",
+    "snapLeft": "ชิดซ้าย",
+    "snapRight": "ชิดขวา",
+    "zoom": "ซูม",
+    "placeholderAppName": "เช่น โฟโต้ชอป",
+    "placeholderProcessName": "เช่น Photoshop.exe",
+    "placeholderShortcutName": "เช่น สำเนา",
+    "placeholderShortcutDesc": "เช่น คัดลอกข้อความที่เลือก",
+    "addNewPage": "เพิ่มหน้าใหม่",
+    "pageName": "ชื่อเพจ",
+    "placeholderPageName": "เช่น แป้นพิมพ์ลัด",
+    "whatToDelete": "คุณต้องการลบอะไร",
+    "version": "เวอร์ชัน",
+    "themeDefault": "ค่าเริ่มต้น",
+    "themeComic": "หนังสือการ์ตูน",
+    "themeOcean": "มหาสมุทรลึก",
+    "themeNoir": "ฟิล์มนัวร์",
+    "themePopart": "ศิลปะป๊อป",
+    "themeSuperhero": "ซูเปอร์ฮีโร่",
+    "themeSynthwave": "ซินธ์เวฟ",
+    "themeNature": "ธรรมชาติ",
+    "themeWindows": "หน้าต่าง",
+    "themeMac": "แม็ค",
+    "themeAdobe": "อะโดบี",
+    "themeOffice": "สำนักงาน",
+    "themeVscode": "รหัส VS",
+    "themeSpotify": "สปอทิฟาย",
+    "themeDiscord": "ความไม่ลงรอยกัน",
+    "themeYoutube": "ยูทูบ",
+    "themeGithub": "GitHub",
+    "themeNotion": "ความคิด",
+    "themeFigma": "ฟิกม่า",
+    "themeFirefox": "ไฟร์ฟอกซ์",
+    "themeChrome": "โครเมียม",
+    "themeBlender": "เครื่องปั่น",
+    "themeSlack": "หย่อน",
+    "themeSteam": "ไอน้ำ",
+    "themeAndroid": "หุ่นยนต์",
+    "themeLinux": "ลินุกซ์",
+    "themeManga": "มังงะ",
+    "onboardingSubtitle": "เข้าสู่ทางลัด",
+    "howTo": "วิธี",
+    "getStarted": "เริ่มต้นเลย",
+    "freshStart": "เริ่มต้นใหม่",
+    "loadPremadeApps": "โหลดแอปที่สร้างไว้ล่วงหน้า",
+    "keepAll": "เก็บทั้งหมด",
+    "backupAllData": "สำรองข้อมูลทั้งหมด",
+    "freshStartTitle": "เริ่มต้นด้วยกระดานชนวนที่สะอาด ลบแอพ ทางลัด และการตั้งค่าที่มีอยู่ทั้งหมด",
+    "premadeTitle": "โหลดเทมเพลตแอปที่สร้างไว้ล่วงหน้าพร้อมทางลัดตัวอย่างเพื่อเริ่มต้นอย่างรวดเร็ว",
+    "keepAllTitle": "เก็บแอปและทางลัดที่มีอยู่ของคุณไว้เหมือนเดิม จะไม่มีอะไรถูกลบหรือเปลี่ยนแปลง",
+    "backupTitle": "ส่งออกแอปและทางลัดทั้งหมดของคุณไปยังไฟล์สำรองข้อมูล .cutz ที่คุณสามารถบันทึกและนำเข้าได้ในภายหลัง",
+    "keyboardHintOn": "กด Enter บนทางลัดเพื่อแสดงแป้นพิมพ์",
+    "keyboardHintOff": "กด Enter เพื่อแสดง กด Enter อีกครั้งเพื่อซ่อน",
+    "highlightHintOn": "ไฮไลท์ปุ่มบนคีย์บอร์ด",
+    "highlightHintOff": "ไม่เน้นปุ่มบนแป้นพิมพ์",
+    "editKeyboard": "แก้ไข",
+    "changeIcon": "เปลี่ยนไอคอน",
+    "resetToDefault": "รีเซ็ตเป็นค่าเริ่มต้น",
+    "clickToClose": "คลิกที่นี่เพื่อปิด",
+    "addLanguage": "เพิ่มภาษา",
+    "removeLanguage": "ลบภาษา",
+    "downloadLanguage": "ดาวน์โหลด",
+    "languageInstalled": "ติดตั้งแล้ว",
+    "languageAvailable": "มีอยู่",
+    "noLanguages": "ไม่มีการติดตั้งภาษาเพิ่มเติม",
+    "changeKeyIcon": "เปลี่ยนไอคอน",
+    "removeKeyIcon": "ลบไอคอน",
+    "addKeyBg": "เพิ่มพื้นหลัง",
+    "removeKeyBg": "ลบพื้นหลัง"
+  },
+  "layout": {
+    "rows": [
+      [
+        {
+          "key": "Escape",
+          "label": "Esc"
+        },
+        {
+          "key": "F1",
+          "label": "F1"
+        },
+        {
+          "key": "F2",
+          "label": "F2"
+        },
+        {
+          "key": "F3",
+          "label": "F3"
+        },
+        {
+          "key": "F4",
+          "label": "F4"
+        },
+        {
+          "key": "F5",
+          "label": "F5"
+        },
+        {
+          "key": "F6",
+          "label": "F6"
+        },
+        {
+          "key": "F7",
+          "label": "F7"
+        },
+        {
+          "key": "F8",
+          "label": "F8"
+        },
+        {
+          "key": "F9",
+          "label": "F9"
+        },
+        {
+          "key": "F10",
+          "label": "F10"
+        },
+        {
+          "key": "F11",
+          "label": "F11"
+        },
+        {
+          "key": "F12",
+          "label": "F12"
+        }
+      ],
+      [
+        {
+          "key": "Backquote",
+          "label": "`"
+        },
+        {
+          "key": "Digit1",
+          "label": "1"
+        },
+        {
+          "key": "Digit2",
+          "label": "2"
+        },
+        {
+          "key": "Digit3",
+          "label": "3"
+        },
+        {
+          "key": "Digit4",
+          "label": "4"
+        },
+        {
+          "key": "Digit5",
+          "label": "5"
+        },
+        {
+          "key": "Digit6",
+          "label": "6"
+        },
+        {
+          "key": "Digit7",
+          "label": "7"
+        },
+        {
+          "key": "Digit8",
+          "label": "8"
+        },
+        {
+          "key": "Digit9",
+          "label": "9"
+        },
+        {
+          "key": "Digit0",
+          "label": "0"
+        },
+        {
+          "key": "Minus",
+          "label": "-"
+        },
+        {
+          "key": "Equal",
+          "label": "="
+        },
+        {
+          "key": "Backspace",
+          "label": "Bksp",
+          "w": 2
+        }
+      ],
+      [
+        {
+          "key": "Tab",
+          "label": "Tab",
+          "w": 1.5
+        },
+        {
+          "key": "KeyQ",
+          "label": "Q"
+        },
+        {
+          "key": "KeyW",
+          "label": "W"
+        },
+        {
+          "key": "KeyE",
+          "label": "E"
+        },
+        {
+          "key": "KeyR",
+          "label": "R"
+        },
+        {
+          "key": "KeyT",
+          "label": "T"
+        },
+        {
+          "key": "KeyY",
+          "label": "Y"
+        },
+        {
+          "key": "KeyU",
+          "label": "U"
+        },
+        {
+          "key": "KeyI",
+          "label": "I"
+        },
+        {
+          "key": "KeyO",
+          "label": "O"
+        },
+        {
+          "key": "KeyP",
+          "label": "P"
+        },
+        {
+          "key": "BracketLeft",
+          "label": "["
+        },
+        {
+          "key": "BracketRight",
+          "label": "]"
+        },
+        {
+          "key": "Backslash",
+          "label": "\\",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "key": "CapsLock",
+          "label": "Caps",
+          "w": 1.8
+        },
+        {
+          "key": "KeyA",
+          "label": "A"
+        },
+        {
+          "key": "KeyS",
+          "label": "S"
+        },
+        {
+          "key": "KeyD",
+          "label": "D"
+        },
+        {
+          "key": "KeyF",
+          "label": "F"
+        },
+        {
+          "key": "KeyG",
+          "label": "G"
+        },
+        {
+          "key": "KeyH",
+          "label": "H"
+        },
+        {
+          "key": "KeyJ",
+          "label": "J"
+        },
+        {
+          "key": "KeyK",
+          "label": "K"
+        },
+        {
+          "key": "KeyL",
+          "label": "L"
+        },
+        {
+          "key": "Semicolon",
+          "label": ";"
+        },
+        {
+          "key": "Quote",
+          "label": "'"
+        },
+        {
+          "key": "Enter",
+          "label": "Enter",
+          "w": 2.2
+        }
+      ],
+      [
+        {
+          "key": "ShiftLeft",
+          "label": "Shift",
+          "w": 2.3
+        },
+        {
+          "key": "KeyZ",
+          "label": "Z"
+        },
+        {
+          "key": "KeyX",
+          "label": "X"
+        },
+        {
+          "key": "KeyC",
+          "label": "C"
+        },
+        {
+          "key": "KeyV",
+          "label": "V"
+        },
+        {
+          "key": "KeyB",
+          "label": "B"
+        },
+        {
+          "key": "KeyN",
+          "label": "N"
+        },
+        {
+          "key": "KeyM",
+          "label": "M"
+        },
+        {
+          "key": "Comma",
+          "label": ","
+        },
+        {
+          "key": "Period",
+          "label": "."
+        },
+        {
+          "key": "Slash",
+          "label": "/"
+        },
+        {
+          "key": "ShiftRight",
+          "label": "Shift",
+          "w": 2.7
+        }
+      ],
+      [
+        {
+          "key": "ControlLeft",
+          "label": "Ctrl",
+          "w": 1.4
+        },
+        {
+          "key": "MetaLeft",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "AltLeft",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "Space",
+          "label": "Space",
+          "w": 6
+        },
+        {
+          "key": "AltRight",
+          "label": "Alt",
+          "w": 1.2
+        },
+        {
+          "key": "MetaRight",
+          "label": "Win",
+          "w": 1.2
+        },
+        {
+          "key": "ContextMenu",
+          "label": "Fn",
+          "w": 1.2
+        },
+        {
+          "key": "ControlRight",
+          "label": "Ctrl",
+          "w": 1.4
+        }
+      ]
+    ]
+  },
+  "modifiers": {
+    "windows": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Win",
+        "label": "Win"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "ContextMenu",
+        "label": "Fn"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ],
+    "mac": [
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Meta",
+        "label": "Cmd"
+      },
+      {
+        "key": "Control",
+        "label": "Ctrl"
+      }
+    ],
+    "linux": [
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": " ",
+        "label": "Space",
+        "w": 65
+      },
+      {
+        "key": "Super",
+        "label": "Super"
+      },
+      {
+        "key": "Alt",
+        "label": "Alt"
+      },
+      {
+        "key": "Ctrl",
+        "label": "Ctrl"
+      }
+    ]
+  },
+  "arrows": {
+    "up": "ArrowUp",
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight"
+  }
+}
