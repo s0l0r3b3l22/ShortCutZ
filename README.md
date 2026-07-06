@@ -1,4 +1,4 @@
-# ShortcutZ
+# ShortCutZ
 
 A desktop keyboard shortcut manager built with Electron.
 Organize, view, and customize keyboard shortcuts for all your apps in one place.
