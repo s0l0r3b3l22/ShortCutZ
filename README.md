@@ -2,7 +2,7 @@
 
 A desktop keyboard shortcut manager built with Electron. Organize, view, and customize keyboard shortcuts for all your apps in one place.
 
-<img src="screenshots/main.png" width="25%">
+<p align="center"><img src="screenshots/main.png" width="25%"> <img src="screenshots/keyboard.png" width="25%">)</p>
 
 ## Features
 
@@ -21,7 +21,6 @@ A desktop keyboard shortcut manager built with Electron. Organize, view, and cus
 - **Global hotkey** — Toggle the window with a configurable hotkey
 - **Auto-Detect** - When running app that you've added to ShortCutZ, pressing hotkeys should unhide to show current app page of shortcuts
 
-![Keyboard Overlay](screenshots/keyboard.png)
 
 ## Screenshots
 
