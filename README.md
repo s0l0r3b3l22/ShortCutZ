@@ -1,8 +1,7 @@
 # ShortcutZ
 
-A desktop keyboard shortcut manager built with Electron. Organize, view, and customize keyboard shortcuts for all your apps in one place.
-
-<p align="center"><img src="screenshots/main.png" width="25%"> <img src="screenshots/keyboard.png" width="25%">)</p>
+A desktop keyboard shortcut manager built with Electron.
+Organize, view, and customize keyboard shortcuts for all your apps in one place.
 
 ## Features
 
